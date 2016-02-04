@@ -1,0 +1,95 @@
+.nav{
+	width:100%;
+	margin-top:30px;
+	margin-bottom:20px;
+	background-color:white;
+	padding-left:450px;
+}
+nav li{
+	display:inline-block;
+	margin-right:30px;
+}
+nav a{
+	text-decoration:none;
+	color:black;
+	font-family:Arial;
+}
+.background{
+	background-image:url("../images/background.jpg");
+	height:300px;
+	background-size:cover;
+}
+.background img{
+	position:relative;
+	top:100px;
+	left:600px;
+}
+.background h1{
+	position:relative;
+	top:100px;
+	color:white;
+	font-size:40px;
+	text-align: center;
+
+}
+.background h3{
+	position:relative;
+	top:100px;
+	color:white;
+	font-size: 30px;
+	text-align:center;
+}
+section h3{
+	/*position: relative;
+	top:70px;
+	bottom: 20px;*/
+	color:#8F1AE6;
+	font-size:40px;
+	text-align:center;
+}
+.profile{
+	/*position:relative;
+	top:70px;*/
+	border:1px solid black;
+	height:200px;
+	width: 180px;
+	/*float: left;*/
+
+}
+/* p{
+	position: relative;
+	top:70px;
+	left:20px;
+	bottom:50px;
+}*/
+section h4{
+	/*position: relative;
+	top:120px;*/
+	color:#8F1AE6;
+	font-size:20px;
+	text-align:center;
+}
+.cat{
+	border-radius:100%;
+	height:200px;
+	width:200px;
+	border:3px solid #C780F1;
+	padding:5px;
+}
+.link{
+	background-image:url("../images/tile2.png");
+	background-size:coveer;
+	height:400px;
+	margin-top:550px;
+}
+.images{
+	margin-top:100px;
+	margin-left:50px;
+	height:150px;
+	width:150px;
+}
+h1{
+	padding-top:50px;
+	text-align: center;
+	color:#8F03E3;
+}
